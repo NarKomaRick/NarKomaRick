@@ -3,7 +3,7 @@
 </div>
 
 ### About Me
-<p>asdfasdf</p>
+<p>I love Python</p>
 
 ### My Codewars
 ![codewars](https://www.codewars.com/users/NarKomaRick/badges/large)
