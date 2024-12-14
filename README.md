@@ -1,3 +1,3 @@
 <div id="header" alight="center">
-  <img src="https://github.com/NarKomaRick/NarKomaRick/blob/main/assets/pulpfiction-john-travolta.mp4"
+  <img src="https://github.com/NarKomaRick/NarKomaRick/blob/main/elon-musk-john-travolta.gif"
 </div>
